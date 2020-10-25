@@ -9,7 +9,7 @@ const SearchForm = ({ handleSubmitProp }) => {
           id="searchbar"
           type="text"
           size="sm"
-          placeholder="Search for a Beatles song"
+          placeholder="Search for a song"
         ></Form.Control>
       </Form.Row>
     </Form>
